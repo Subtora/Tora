@@ -1,3 +1,4 @@
+#if 0
 #include <iostream>
 #include <string>
 #define Pause std::cin.ignore();std::cin.get();
@@ -10,3 +11,4 @@ int main() {
 
 	return 0;
 }
+#endif
